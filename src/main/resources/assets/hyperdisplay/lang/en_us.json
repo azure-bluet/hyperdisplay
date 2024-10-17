@@ -1,0 +1,8 @@
+{
+    "hyperdisplay.toggle.false": "Hyper display toggled off",
+    "hyperdisplay.toggle.true": "Hyper display toggled on",
+    "hyperdisplay.config.title": "Hyper display config",
+    "key.categories.hyperdisplay": "Hyper Display",
+    "key.hyperdisplay.toggleaddon": "Toggle hyper display addon",
+    "hyperdisplay.invalidcolor": "Invalid color"
+}
